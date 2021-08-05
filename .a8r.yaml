@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifest
+  cluster_info:
+    cluster_id: 282b8880-24d4-530c-87aa-55f75132985b
+    cluster_name: acook-gitops-demo
